@@ -20,7 +20,7 @@ Example a) provides a territory with 7 vertical paths and 4 horizontal paths, wi
 
 In example b) we have a territory with two mountain chains: 1) (A1, A2, B2, A3); 2) (C3).
 
-In example c) the valley correspondent to mountain chain 1 is denoted by green dots, and the valley correspondent to mountain chain 2 is denoted by yellow dots.
+In example c) the valley correspondent to mountain chain 1 is marked with green dots, and the valley correspondent to mountain chain 2 is marked with yellow dots.
 
 # Testing
 
