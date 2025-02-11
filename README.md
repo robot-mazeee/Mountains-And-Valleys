@@ -10,7 +10,7 @@ A point in a territory where a vertical path and a horizontal path cross is call
 
 ## Mountain Chains and Valleys
 
-Two occupied or free intersections are connected if it is possible to draw a path between them, containing only occupied or free intersections, respectively. A chain of mountains is a set of connected occupied intersections that are not connected to any other mountain. Similarly, a chain of free intersections adjacent to a mountain or to a chain of mountains that contains that mountain is called a valley.
+Two occupied or free intersections are connected if it is possible to draw a path between them, containing only occupied or free intersections, respectively. A chain of mountains is a set of connected occupied intersections that are not connected to any other mountain. Similarly, a chain of free intersections adjacent to a mountain or to a chain of mountains is called a valley.
 
 ## Examples
 
